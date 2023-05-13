@@ -1,0 +1,27 @@
+.div1:hover .div2 {
+
+}
+.p {
+    font-size: 27px;
+    text-align: justify;
+}
+.menu {
+    width: 700px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.5);
+    /* margin: auto; */
+    border: 4px solid red;
+    list-style: none;
+    /* margin: 0; */
+    padding: 0;
+    /* display: flex; */
+    /* justify-content: center; */
+}
+.item {
+    margin-right: 40px;
+}
+.link {
+    text-decoration: none;
+    color: black;
+    font-size: 36px;
+}
